@@ -13,6 +13,10 @@
     </head>
     
     <body>
-        <p>je moeder</p>
+        <div class="body">
+            <div class="menubalk">
+                <h1>Homepage</h1>
+            </div>
+        </div>
     </body>
 </html>
