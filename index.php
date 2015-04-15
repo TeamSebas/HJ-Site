@@ -16,8 +16,8 @@
     <body>
         <body class="duty-bg">
         <div class="body">
-            <div class="menubalk">
-                <h1>Homepage</h1>
+            <div class="menubalkhp">
+                <h1> Homepage</h1>
             </div>
         </div>
     </body>
